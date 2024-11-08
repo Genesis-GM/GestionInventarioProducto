@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Gene\\GestionInventarioProducto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F0D38F-9317-4173-B658-44A51317ABE0}|GestionInventarioProducto\\GestionInventarioProducto.csproj|c:\\users\\dell\\onedrive\\desktop\\gene\\gestioninventarioproducto\\gestioninventarioproducto\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F0D38F-9317-4173-B658-44A51317ABE0}|GestionInventarioProducto\\GestionInventarioProducto.csproj|solutionrelative:gestioninventarioproducto\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F0D38F-9317-4173-B658-44A51317ABE0}|GestionInventarioProducto\\GestionInventarioProducto.csproj|c:\\users\\dell\\onedrive\\desktop\\gene\\gestioninventarioproducto\\gestioninventarioproducto\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F0D38F-9317-4173-B658-44A51317ABE0}|GestionInventarioProducto\\GestionInventarioProducto.csproj|solutionrelative:gestioninventarioproducto\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F0D38F-9317-4173-B658-44A51317ABE0}|GestionInventarioProducto\\GestionInventarioProducto.csproj|c:\\users\\dell\\onedrive\\desktop\\gene\\gestioninventarioproducto\\gestioninventarioproducto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F0D38F-9317-4173-B658-44A51317ABE0}|GestionInventarioProducto\\GestionInventarioProducto.csproj|solutionrelative:gestioninventarioproducto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Gene\\GestionInventarioProducto\\GestionInventarioProducto\\Inventario.cs",
+              "RelativeDocumentMoniker": "GestionInventarioProducto\\Inventario.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Gene\\GestionInventarioProducto\\GestionInventarioProducto\\Inventario.cs",
+              "RelativeToolTip": "GestionInventarioProducto\\Inventario.cs",
+              "ViewState": "AgIAADYAAACAyMzMzMwkwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:30:24.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Gene\\GestionInventarioProducto\\GestionInventarioProducto\\Producto.cs",
+              "RelativeDocumentMoniker": "GestionInventarioProducto\\Producto.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Gene\\GestionInventarioProducto\\GestionInventarioProducto\\Producto.cs",
+              "RelativeToolTip": "GestionInventarioProducto\\Producto.cs",
+              "ViewState": "AgIAAAIAAABgMjMzMzMbwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:25:58.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Gene\\GestionInventarioProducto\\GestionInventarioProducto\\Program.cs",
+              "RelativeDocumentMoniker": "GestionInventarioProducto\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Gene\\GestionInventarioProducto\\GestionInventarioProducto\\Program.cs",
+              "RelativeToolTip": "GestionInventarioProducto\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAcWZmZmYSwGkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:24:57.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

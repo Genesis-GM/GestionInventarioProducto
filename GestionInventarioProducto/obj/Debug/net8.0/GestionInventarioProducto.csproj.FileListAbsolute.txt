@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Desktop\Gene\GestionInventarioProducto\GestionInventarioProducto\bin\Debug\net8.0\GestionInventarioProducto.exe
+C:\Users\DELL\OneDrive\Desktop\Gene\GestionInventarioProducto\GestionInventarioProducto\bin\Debug\net8.0\GestionInventarioProducto.deps.json
+C:\Users\DELL\OneDrive\Desktop\Gene\GestionInventarioProducto\GestionInventarioProducto\bin\Debug\net8.0\GestionInventarioProducto.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Gene\GestionInventarioProducto\GestionInventarioProducto\bin\Debug\net8.0\GestionInventarioProducto.dll
+C:\Users\DELL\OneDrive\Desktop\Gene\GestionInventarioProducto\GestionInventarioProducto\bin\Debug\net8.0\GestionInventarioProducto.pdb
+C:\Users\DELL\OneDrive\Desktop\Gene\GestionInventarioProducto\GestionInventarioProducto\obj\Debug\net8.0\GestionInventarioProducto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Gene\GestionInventarioProducto\GestionInventarioProducto\obj\Debug\net8.0\GestionInventarioProducto.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Gene\GestionInventarioProducto\GestionInventarioProducto\obj\Debug\net8.0\GestionInventarioProducto.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Gene\GestionInventarioProducto\GestionInventarioProducto\obj\Debug\net8.0\GestionInventarioProducto.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Gene\GestionInventarioProducto\GestionInventarioProducto\obj\Debug\net8.0\GestionInventarioProducto.dll
+C:\Users\DELL\OneDrive\Desktop\Gene\GestionInventarioProducto\GestionInventarioProducto\obj\Debug\net8.0\refint\GestionInventarioProducto.dll
+C:\Users\DELL\OneDrive\Desktop\Gene\GestionInventarioProducto\GestionInventarioProducto\obj\Debug\net8.0\GestionInventarioProducto.pdb
+C:\Users\DELL\OneDrive\Desktop\Gene\GestionInventarioProducto\GestionInventarioProducto\obj\Debug\net8.0\GestionInventarioProducto.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\Gene\GestionInventarioProducto\GestionInventarioProducto\obj\Debug\net8.0\ref\GestionInventarioProducto.dll
